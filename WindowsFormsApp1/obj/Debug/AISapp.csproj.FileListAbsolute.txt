@@ -1,0 +1,5 @@
+C:\Users\rpk20\AISStudents\WindowsFormsApp1\obj\Debug\AISapp.csproj.AssemblyReference.cache
+C:\Users\rpk20\AISStudents\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuForm.resources
+C:\Users\rpk20\AISStudents\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rpk20\AISStudents\WindowsFormsApp1\obj\Debug\AISapp.csproj.GenerateResource.cache
+C:\Users\rpk20\AISStudents\WindowsFormsApp1\obj\Debug\AISapp.csproj.CoreCompileInputs.cache
