@@ -1,0 +1,10 @@
+C:\Users\rpk20\AISStudents\About\About\bin\Debug\About.exe.config
+C:\Users\rpk20\AISStudents\About\About\bin\Debug\About.exe
+C:\Users\rpk20\AISStudents\About\About\bin\Debug\About.pdb
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.csproj.AssemblyReference.cache
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.Properties.Resources.resources
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.csproj.GenerateResource.cache
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.csproj.CoreCompileInputs.cache
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.exe
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\About.pdb
+C:\Users\rpk20\AISStudents\About\About\obj\Debug\AboutApp.Form1.resources
